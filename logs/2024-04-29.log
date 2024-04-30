@@ -1,0 +1,8 @@
+
+Started GET / for :: ::1 at Mon Apr 29 2024 19:43:15 GMT-0400 (Chile Standard Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 11 ms Request ID: [99ffb1b0-afa4-4da7-9968-eeefd7e3253a]
+
+Started GET / for :: ::1 at Mon Apr 29 2024 19:48:03 GMT-0400 (Chile Standard Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 11 ms Request ID: [c5450511-e33d-43c9-b4ec-8ec6cb106590]
